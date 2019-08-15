@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="cub" unicode="&#59404;" d="M841.6 25.600000000000023l32 32V710.4l-32 32H185.6l-32-32v-656l32-32h656zM217.6 678.4h592v-592H217.6V678.4z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="yuanxing" unicode="&#58918;" d="M511.99-64.22C264.84-64.22 63.77 136.85 63.77 384S264.84 832.22 511.99 832.22 960.23 631.15 960.23 384 759.14-64.22 511.99-64.22z m0 823.81C304.88 759.59 136.4 591.11 136.4 384s168.48-375.59 375.59-375.59c207.13 0 375.61 168.48 375.61 375.59S719.12 759.59 511.99 759.59z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
